@@ -37,7 +37,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git@github.com:CarlosCardosoSilva/dsmeta.git
 
 # entrar na pasta do projeto back end
 cd backend
