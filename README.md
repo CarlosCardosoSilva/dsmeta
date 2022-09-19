@@ -13,10 +13,6 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ![Pagina principal](https://user-images.githubusercontent.com/93328383/191090377-7b82ae79-f405-4ace-8abf-de367a39a704.png)
 
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
 # Tecnologias utilizadas
 ## Back end
 - Java
