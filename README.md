@@ -28,7 +28,7 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
-- Banco de dados: Postgresql
+- Banco de dados: H2
 
 # Como executar o projeto
 
