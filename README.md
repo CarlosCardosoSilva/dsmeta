@@ -65,7 +65,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Juvenal Carlos Cardoso
 
 https://www.linkedin.com/in/wmazoni
 
